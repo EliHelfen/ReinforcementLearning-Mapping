@@ -26,6 +26,7 @@ public class Options {
                     break;
                     case 'v': options[10] = args[i+1];
                     break;
+                    case 'P':options[11] = "true";
                 }
             }
         }

@@ -16,6 +16,7 @@ public class ReinforcementLearning {
     static int trials = 10000;
     static boolean unicode = false;
     static int verbosity = 1;
+    static boolean p = false;
     
     public static void main(String[] args) {
         Environment env = new Environment(0, 0);
@@ -212,6 +213,9 @@ public class ReinforcementLearning {
                 System.err.println(String.format("%s must be a int.", run.options[10]));
                 System.exit(0);
             }
+        }
+        if (!(run.options[11]==null)) {
+            p=true;
         }
     }
 
