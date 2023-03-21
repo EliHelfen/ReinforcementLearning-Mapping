@@ -2,8 +2,10 @@
 This Repo is a java program that uses reinforcement learning to allow an agent to map out a terrain to a goal.
 
 To test clone the repository and compile the ReinforcementLearning.java file.
-/Screenshots/Compile.PNG
+![Compile](https://user-images.githubusercontent.com/92120183/226712824-d02b758d-1f22-4c06-9b6e-3069034d9d10.PNG)
+
 Once it is compiled you can run the program.
+![Run](https://user-images.githubusercontent.com/92120183/226712917-2e88998c-72c4-4aaf-862b-a934ef142fd8.PNG)
 
 There are multiple command arguments that you can use.
 
@@ -24,4 +26,5 @@ These are the following flags:
 The order of the arguments does not matter.
 
 The verbosity will allow 
+![SARSA-RunVerbosity3](https://user-images.githubusercontent.com/92120183/226712968-14bf60c3-e2ec-4cc4-b307-f220fb57c92e.PNG)
 
