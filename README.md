@@ -2,7 +2,7 @@
 This Repo is a java program that uses reinforcement learning to allow an agent to map out a terrain to a goal.
 
 To test clone the repository and compile the ReinforcementLearning.java file.
-
+/Screenshots/Compile.PNG
 Once it is compiled you can run the program.
 
 There are multiple command arguments that you can use.
